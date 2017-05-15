@@ -11,10 +11,11 @@ Coming into Kode with Klossy, you may not have known what to expect or how to th
 
 ### The Steps:
 
-**1** Your group must build out a story board for your game. A storyboard is a graphic representation of the plot, like [this](https://www.teachervision.com/creative-writing/activity/3139.html).
 
-**2** Your group must build out a wireframe for the actual website. A wireframe is like a blueprint. It's a visual representation of the skeletal framework of the site. You don't need to create a wireframe for every page, but just have a general outline for what you want your site to look like. Here's an example:
+**1** Your group must build out a wireframe for the actual website. A wireframe is like a blueprint. It's a visual representation of the skeletal framework of the site. You don't need to create a wireframe for every page, but just have a general outline for what you want your site to look like. Here's an example:
 <img src="http://www.kimbieler.com/wp-content/uploads/2012/03/athayde-homepage.jpg">
+
+**2.** Build the page using your knowledge of HTML, CSS, and Javascript. You may choose to use a template from <a href="https://startbootstrap.com/">Bootstrap</a>, <a href="http://materializecss.com/getting-started.html">Materialize</a>, or <a href="https://html5up.net/">HTML5UP</a>, or make your own custom pages from scratch. 
 
 
 ###The Stipulations:
