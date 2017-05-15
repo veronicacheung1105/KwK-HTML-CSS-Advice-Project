@@ -1,6 +1,6 @@
 
 
-## HTML/CSS GROUP PROJECT
+## Kode with Klossy HTML/CSS GROUP PROJECT--Advice!
 
 ###The Task:
 
