@@ -4,7 +4,7 @@
 
 ### The Task:
 
-In groups of 3-5, you will be building a Kode with Klossy advice site!
+In groups of 2-3, you will be building a Kode with Klossy advice site!
 
 ### What does that even mean?
 Coming into Kode with Klossy, you may not have known what to expect or how to thrive in this environment. Now, you're halfway through the program and are Kode with Klossy experts. Your goal is to make a website that provides customized advice for students just starting their Kode with Klossy journey. What do you wish someone had told you on your first day here? How can you help future students have the best possible KwK experience?  
